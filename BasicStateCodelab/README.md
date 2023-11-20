@@ -21,7 +21,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
+```
 Jetpack Compose의 상태를 사용하는 것과 관련한 핵심 개념 학습
 
 # 학습할 내용
